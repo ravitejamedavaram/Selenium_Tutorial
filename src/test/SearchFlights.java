@@ -43,6 +43,7 @@ public class SearchFlights {
 
         }
 
+        driver.close();
         driver.quit();
 
     }
